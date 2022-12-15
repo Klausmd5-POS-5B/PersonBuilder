@@ -1,0 +1,16 @@
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/bin/Debug/net7.0/PersonBuilder
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/bin/Debug/net7.0/195a_persons_with_address.csv
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/bin/Debug/net7.0/PersonBuilder.deps.json
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/bin/Debug/net7.0/PersonBuilder.runtimeconfig.json
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/bin/Debug/net7.0/PersonBuilder.dll
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/bin/Debug/net7.0/PersonBuilder.pdb
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/obj/Debug/net7.0/PersonBuilder.csproj.AssemblyReference.cache
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/obj/Debug/net7.0/PersonBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/obj/Debug/net7.0/PersonBuilder.AssemblyInfoInputs.cache
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/obj/Debug/net7.0/PersonBuilder.AssemblyInfo.cs
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/obj/Debug/net7.0/PersonBuilder.csproj.CoreCompileInputs.cache
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/obj/Debug/net7.0/PersonBuilder.dll
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/obj/Debug/net7.0/refint/PersonBuilder.dll
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/obj/Debug/net7.0/PersonBuilder.pdb
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/obj/Debug/net7.0/PersonBuilder.genruntimeconfig.cache
+/home/klaus/Downloads/school/pos/PersonBuilder/PersonBuilder/obj/Debug/net7.0/ref/PersonBuilder.dll
